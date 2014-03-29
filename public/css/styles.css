@@ -1,0 +1,55 @@
+body{
+	margin-bottom: 70px;
+}
+
+.margintop3{
+	margin-top: 3px;
+}
+.marginleft3{
+	margin-left: 3px;
+}
+.badge_center_text{
+	text-align: center;
+}
+
+body > #container { height: auto; min-height: 100%; }
+
+.padding10{
+	padding: 10px;
+}
+
+textarea {
+    resize: none;
+}
+
+#navbar-colesh{
+	margin-bottom: 0px;
+}
+
+#body-main{
+	background-image: url("../img/background_index_mod2.jpg");
+ 	background-size: 100%;
+}
+
+.error{
+	margin-bottom: 0px;
+	padding-left: 5px;
+	font-size:14px; 
+	color:red;
+	margin: 0px;
+}
+
+/*  singin.blade.php*/
+
+#logo-container{
+	background:black; 
+	border-radius:20px;
+}
+
+#well-register{
+	margin-bottom: 0px;
+}
+
+.image-badge{
+	max-width:70%;
+}
